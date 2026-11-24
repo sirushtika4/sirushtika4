@@ -38,6 +38,7 @@
   <a href="#current-focus">Current Focus</a> •
   <a href="#technology-constellation">Technologies</a> •
   <a href="#featured-projects">Projects</a> •
+  <a href="#github-analytics">Analytics</a> •
   <a href="#connect-with-me">Connect</a>
 </p>
 
@@ -306,6 +307,45 @@ A network traffic analysis project exploring efficient DDoS detection using the 
 
 ---
 ## Connect With Me
+
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+## GitHub Analytics
+
+<p align="center">
+  <sub>Turning consistent learning into measurable progress</sub>
+</p>
+
+<!-- GitHub Statistics and Top Languages -->
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sirushtika4&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirushtika4&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=30363D&langs_count=8" alt="Top Languages"/>
+</p>
+
+<!-- Contribution Streak -->
+
+### Contribution Streak
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com/?user=sirushtika4&theme=tokyonight&background=0D1117&border=30363D&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak"/>
+</p>
+
+<!-- Activity Graph -->
+
+### Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sirushtika4&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <sub>Every contribution is a step toward becoming a better engineer.</sub>
+</p>
+
+---
+
 
 <p align="center">
   <a href="https://github.com/sirushtika4">
