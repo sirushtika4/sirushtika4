@@ -48,8 +48,8 @@
 ## About Me
 
 ```yaml
-name: Sirushtika
-education: Computer Engineering Undergraduate, University of Ruhuna
+name: Sirushtika Pojarajah
+education: Computer Engineering Undergraduate University of Ruhuna
 location: Sri Lanka
 interests:
   - Artificial Intelligence
@@ -313,31 +313,32 @@ A network traffic analysis project exploring efficient DDoS detection using the 
 
 ## GitHub Analytics
 
-<p align="center">
-  <sub>Turning consistent learning into measurable progress</sub>
-</p>
 
-<!-- GitHub Statistics and Top Languages -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sirushtika4&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=30363D" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirushtika4&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=30363D&langs_count=8" alt="Top Languages"/>
-</p>
-
-<!-- Contribution Streak -->
-
-### Contribution Streak
+## GitHub Analytics
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com/?user=sirushtika4&theme=tokyonight&background=0D1117&border=30363D&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak"/>
+  <sub>Powered by GitHub GraphQL API • Automatically updated daily</sub>
 </p>
 
-<!-- Activity Graph -->
+<br>
+
+<p align="center">
+  <img width="49%" src="assets/github-stats.svg" alt="GitHub Statistics"/>
+  <img width="49%" src="assets/top-languages.svg" alt="Most Used Languages"/>
+</p>
+
+<br>
 
 ### Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sirushtika4&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img width="100%" src="assets/contributions.svg" alt="Contribution Activity"/>
+</p>
+
+<p align="center">
+  <sub>Automated using Python, GitHub Actions and GraphQL API.</sub>
 </p>
 
 <p align="center">
@@ -346,20 +347,3 @@ A network traffic analysis project exploring efficient DDoS detection using the 
 
 ---
 
-
-<p align="center">
-  <a href="https://github.com/sirushtika4">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
-  </a>
-</p>
-
----
-<p align="center">
-  <b>Learn. Build. Innovate.</b>
-</p>
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0891b2&height=100&section=footer" alt="Footer"/>
-</p>
