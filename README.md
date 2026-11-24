@@ -1,9 +1,17 @@
 
-<!-- ================= HEADER BANNER ================= -->
-
+<<!-- ================= HEADER BANNER ================= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0891b2&height=230&section=header&text=Sirushtika&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%7C%20AI%20%26%20ML%20%7C%20Software%20Development&descSize=17&descAlignY=57" alt="Profile Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0891b2&height=220&section=header&text=Sirushtika&fontSize=60&fontColor=ffffff&fontAlignY=38" alt="Profile Banner"/>
 </p>
+
+<h3 align="center">
+  Computer Engineering | AI & ML | Software Development
+</h3>
+
+
+
+
+
 
 <!-- ================= ANIMATED TYPING ================= -->
 
