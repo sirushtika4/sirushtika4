@@ -147,9 +147,9 @@ A software application focused on converting handwritten content into digital do
 
 **Technologies & Practices**
 
-![Web Development](https://img.shields.io/badge/Web_Development-0891B2?style=flat-square)
-![QA Testing](https://img.shields.io/badge/QA_Testing-16A34A?style=flat-square)
-![Automation](https://img.shields.io/badge/Test_Automation-6366F1?style=flat-square)
+![Web Development](https://img.shields.io/badge/Web%20Development-0891b2?style=flat-square)
+![QA Testing](https://img.shields.io/badge/QA%20Testing-16a34a?style=flat-square)
+![Test Automation](https://img.shields.io/badge/Test%20Automation-6366f1?style=flat-square)
 
 **Category:** Software Engineering
 
@@ -181,8 +181,8 @@ A client-server networking application designed to support emergency communicati
 **Technologies**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![TCP](https://img.shields.io/badge/TCP-0891B2?style=flat-square)
-![Socket Programming](https://img.shields.io/badge/Socket_Programming-6366F1?style=flat-square)
+![TCP](https://img.shields.io/badge/TCP-0077B5?style=flat-square)
+![Socket Programming](https://img.shields.io/badge/Socket%20Programming-6366f1?style=flat-square)
 
 **Category:** Computer Networking
 
