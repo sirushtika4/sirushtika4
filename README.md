@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**sirushtika4/sirushtika4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there, I'm Sirushtika 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Computer Engineering Undergraduate | AI & ML Enthusiast
+
+---
+
+## 👩‍💻 About Me
+
+I am a Computer Engineering undergraduate passionate about 
+Artificial Intelligence, Machine Learning, Full-Stack Development,
+and Data Science.
+
+I enjoy learning new technologies and developing practical
+solutions to real-world problems.
+
+- 🌱 Currently exploring RAG, LLMs and Agentic AI
+- 💻 Interested in Full-Stack Software Development
+- 🤖 Learning Artificial Intelligence and Machine Learning
+- 📊 Exploring Data Science and Predictive Analytics
+- 🤝 Open to collaboration and learning opportunities
+
+---
+
+## 🎯 Current Focus
+
+| Artificial Intelligence | Software Development |
+| :--- | :--- |
+| Machine Learning | Full-Stack Development |
+| RAG & Agentic AI | Web Applications |
+| Data Science | REST APIs |
+
+---
+
+## 🚀 My Motto
+
+**Learn. Build. Innovate.**
+
+---
+
+<p align="center">
+  Thanks for visiting my GitHub profile!
+</p>
