@@ -183,7 +183,6 @@ A client-server networking application designed to support emergency communicati
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![TCP](https://img.shields.io/badge/TCP-0077B5?style=flat-square)
 ![Socket Programming](https://img.shields.io/badge/Socket%20Programming-6366f1?style=flat-square)
-
 **Category:** Computer Networking
 
 </td>
