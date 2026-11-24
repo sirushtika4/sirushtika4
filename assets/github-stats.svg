@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="500" height="330"
+     viewBox="0 0 500 330"
+     role="img">
+  <title>Sirushtika's GitHub Statistics</title>
+  <rect x="1" y="1"
+        width="498"
+        height="328"
+        rx="12"
+        fill="#0D1117"
+        stroke="#30363D"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+<text x="25" y="38" font-size="21" fill="#22D3EE" font-weight="bold" text-anchor="start">Sirushtika's GitHub Statistics</text><text x="25" y="80" font-size="15" fill="#C9D1D9" font-weight="normal" text-anchor="start">Public non-fork repositories</text><text x="470" y="80" font-size="18" fill="#22D3EE" font-weight="bold" text-anchor="end">10</text><text x="25" y="117" font-size="15" fill="#C9D1D9" font-weight="normal" text-anchor="start">Stars on those repositories</text><text x="470" y="117" font-size="18" fill="#22D3EE" font-weight="bold" text-anchor="end">0</text><text x="25" y="154" font-size="15" fill="#C9D1D9" font-weight="normal" text-anchor="start">Commits (last year)</text><text x="470" y="154" font-size="18" fill="#22D3EE" font-weight="bold" text-anchor="end">45</text><text x="25" y="191" font-size="15" fill="#C9D1D9" font-weight="normal" text-anchor="start">Pull requests</text><text x="470" y="191" font-size="18" fill="#22D3EE" font-weight="bold" text-anchor="end">5</text><text x="25" y="228" font-size="15" fill="#C9D1D9" font-weight="normal" text-anchor="start">Issues</text><text x="470" y="228" font-size="18" fill="#22D3EE" font-weight="bold" text-anchor="end">0</text><text x="25" y="265" font-size="15" fill="#C9D1D9" font-weight="normal" text-anchor="start">Followers</text><text x="470" y="265" font-size="18" fill="#22D3EE" font-weight="bold" text-anchor="end">1</text><text x="25" y="310" font-size="11" fill="#8B949E" font-weight="normal" text-anchor="start">Updated: 2026-11-24 09:10 UTC</text></g></svg>
