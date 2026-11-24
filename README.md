@@ -96,6 +96,124 @@ and continuously improving my technical and problem-solving skills.
 
 ## Connect With Me
 
+<!-- ================= FEATURED PROJECTS ================= -->
+
+## Featured Projects
+
+<p align="center">
+  <sub>Transforming ideas into real-world solutions</sub>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered Email Assistant
+
+An intelligent email question-answering system using Retrieval-Augmented Generation (RAG) to retrieve relevant email content and generate contextual answers.
+
+**Technologies**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-6366F1?style=flat-square)
+
+**Status:** In Development
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ SmartWatt
+
+A machine learning-based energy consumption forecasting system focused on predictive analytics and energy efficiency.
+
+**Technologies**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+
+**Category:** Machine Learning
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📝 Handwriting Digitization System
+
+A software application focused on converting handwritten content into digital documents.
+
+**Technologies & Practices**
+
+![Web Development](https://img.shields.io/badge/Web_Development-0891B2?style=flat-square)
+![QA Testing](https://img.shields.io/badge/QA_Testing-16A34A?style=flat-square)
+![Automation](https://img.shields.io/badge/Test_Automation-6366F1?style=flat-square)
+
+**Category:** Software Engineering
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Application
+
+A responsive shopping application featuring product search, category filtering, product details, persistent cart management and dark/light themes.
+
+**Technologies**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[View Repository](https://github.com/sirushtika4/Ecommerce)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 Emergency Coordination System
+
+A client-server networking application designed to support emergency communication and coordination.
+
+**Technologies**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![TCP](https://img.shields.io/badge/TCP-0891B2?style=flat-square)
+![Socket Programming](https://img.shields.io/badge/Socket_Programming-6366F1?style=flat-square)
+
+**Category:** Computer Networking
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Real-Time DDoS Detection
+
+A network traffic analysis project exploring efficient DDoS detection using the sliding window algorithm.
+
+**Technologies**
+
+![Algorithms](https://img.shields.io/badge/Algorithms-7C3AED?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square)
+![Sliding Window](https://img.shields.io/badge/Sliding_Window-0891B2?style=flat-square)
+
+**Category:** Data Structures & Algorithms
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/sirushtika4?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
 
 <!-- ================= TECHNOLOGY CONSTELLATION ================= -->
 
